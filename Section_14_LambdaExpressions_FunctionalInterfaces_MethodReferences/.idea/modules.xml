@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ChainingLambdas/ChainingLambdas.iml" filepath="$PROJECT_DIR$/ChainingLambdas/ChainingLambdas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChainingLambdas 2/ChainingLambdas 2.iml" filepath="$PROJECT_DIR$/ChainingLambdas 2/ChainingLambdas 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LambdaExpressionChallenge/LambdaExpressionChallenge.iml" filepath="$PROJECT_DIR$/LambdaExpressionChallenge/LambdaExpressionChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MiniLambdaChallenges/MiniLambdaChallenges.iml" filepath="$PROJECT_DIR$/MiniLambdaChallenges/MiniLambdaChallenges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Section_14_LambdaExpressions_FunctionalInterfaces_MethodReferences.iml" filepath="$PROJECT_DIR$/.idea/Section_14_LambdaExpressions_FunctionalInterfaces_MethodReferences.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,35 @@
+<component name="libraryTable">
+  <library name="section16">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/section16/Concurrency-in-Java-Threads-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section16/Concurrency-in-Java-Challenge-8-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section16/Concurrency-in-Java-Data-Binding-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section16/Concurrency-in-Java-Challenge-1-and-2-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section16/Concurrency-in-Java-Thread-Starvation-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section16/Concurrency-in-Java-Challenge-3,4-and-5-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section16/Concurrency-in-Java-Interrupt-and-Join-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section16/Concurrency-in-Java-Thread-Variables-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section16/Concurrency-in-Java-ArrayBlockingQueue-Class-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section16/Concurrency-in-Java-More-on-Deadlocks-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section16/Concurrency-in-Java-Deadlocks-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section16/Concurrency-in-Java-Deadlocks,-wait,-notify-and-notifyAll-methods-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section16/Concurrency-in-Java-Producer-and-Consumer-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section16/Concurrency-in-Java-Reentrant-Lock-and-Unlock-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section16/Concurrency-in-Java-Thread-Pools-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section16/Concurrency-in-Java-Challenge-9-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section16/Concurrency-in-Java-Challenge-6-and-7-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section16/Concurrency-in-Java-Using-Try-Finally-With-Threads-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section16/Concurrency-in-Java-Multiple-Threads-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section16/Concurrency-in-Java-Synchronisation-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section16/Concurrency-in-Java-Service-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section16/Concurrency-in-Java-Live-Lock-Example-and-Slipped-Conditions-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section16/Concurrency-in-Java-Thread-Interference-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section16/Concurrency-in-Java-The-Java-Util-Concurrent-package-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section16/Concurrency-in-Java-Runnable-and-Thread-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section16/Concurrency-in-Java-Fair-Locks-and-Live-Locks-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section16/Concurrency-in-Java-JavaFX-Background-Tasks-Source-code.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

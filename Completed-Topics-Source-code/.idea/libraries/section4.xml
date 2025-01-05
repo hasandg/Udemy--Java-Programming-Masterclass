@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="section4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/section4/Variables,-Datatypes-and-Operators-Getting-To-Know-Primitive-Data-Types-Char-And-Boolean-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section4/Variables,-Datatypes-and-Operators-Operators-In-Java-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section4/Variables,-Datatypes-and-Operators-Getting-To-Know-Primitive-Data-Types-Float-And-Double-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section4/Variables,-Datatypes-and-Operators-More-On-Operators-And-Operator-Precedence-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section4/Variables,-Datatypes-and-Operators-Understanding-Strings-And-Finishing-Up-Primitive-Data-Types-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section4/Variables,-Datatypes-and-Operators-Getting-To-Know-Primitive-Data-Types-The-Byte,-Short,-Int-And-Long-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section4/Variables,-Datatypes-and-Operators-What-Are-Variables-Source-code.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

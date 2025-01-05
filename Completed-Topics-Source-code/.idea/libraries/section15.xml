@@ -1,0 +1,48 @@
+<component name="libraryTable">
+  <library name="section15">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/section15/Basic-Input-&amp;-Output-including-java.util-Reading-and-Writing-with-Java-NIO-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section15/Basic-Input-&amp;-Output-including-java.util-Reading-Files-with-NIO-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section15/Basic-Input-&amp;-Output-including-java.util-Absolute-and-Relative-Reads-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section15/Basic-Input-&amp;-Output-including-java.util-Load-Big-Location-and-Exits-Files-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section15/Basic-Input-&amp;-Output-including-java.util-Separators-Temp-Files-and-File-Stores-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section15/Basic-Input-&amp;-Output-including-java.util-Multi-Catch-Exceptions-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section15/Basic-Input-&amp;-Output-including-java.util-Writing-Objects-With-Java-NIO-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section15/Basic-Input-&amp;-Output-including-java.util-Challenge-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section15/Basic-Input-&amp;-Output-including-java.util-Stack-Trace-and-Call-Stack-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section15/Basic-Input-&amp;-Output-including-java.util-Create-Random-Access-File-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section15/Basic-Input-&amp;-Output-including-java.util-Mapping-IO-and-NIO-Methods-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section15/Basic-Input-&amp;-Output-including-java.util-Filesystem-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section15/Basic-Input-&amp;-Output-including-java.util-Read-Existing-Directory-Contents-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section15/Basic-Input-&amp;-Output-including-java.util-Object-Input-Output-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section15/Basic-Input-&amp;-Output-including-java.util-Catching-and-throwing-Exceptions-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section15/Basic-Input-&amp;-Output-including-java.util-Exists-and-CopyFile-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section15/GameData.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section15/Basic-Input-&amp;-Output-including-java.util-Finish-Object-IO-and-RandomAccessFile-class-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section15/Basic-Input-&amp;-Output-including-java.util-Writing-Sequentially-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section15/Basic-Input-&amp;-Output-including-java.util-More-on-Paths-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section15/Basic-Input-&amp;-Output-including-java.util-Writing-Binary-Files-with-Java-NIO-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section15/Basic-Input-&amp;-Output-including-java.util-Java-NIO-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section15/Basic-Input-&amp;-Output-including-java.util-FileReader-and-Closeable-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section15/Basic-Input-&amp;-Output-including-java.util-Walk-File-Tree-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section15/Basic-Input-&amp;-Output-including-java.util-Writing-content-FileWriter-class-and-Finally-block-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section15/Basic-Input-&amp;-Output-including-java.util-Move,-Rename-and-Delete-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section15/Basic-Input-&amp;-Output-including-java.util-BufferedReader-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section15/Basic-Input-&amp;-Output-including-java.util-Byte-Streams-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section15/InputOutput NIO.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section15/Basic-Input-&amp;-Output-including-java.util-Reading-Binary-Data-and-End-of-File-Exceptions-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section15/Basic-Input-&amp;-Output-including-java.util-Update-Adventure-Game-to-Read-Random-Access-File-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section15/Basic-Input-&amp;-Output-including-java.util-Chained-Put-Methods-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section15/Basic-Input-&amp;-Output-including-java.util-Copy-Entire-Tree-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section15/Basic-Input-&amp;-Output-including-java.util-File-Attributes-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section15/Basic-Input-&amp;-Output-including-java.util-FileChannel-to-Copy-Files-and-Pipes-with-Threads-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section15/Basic-Input-&amp;-Output-including-java.util-Update-Static-Initializer-Block-With-Random-File-Access-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section15/Basic-Input-&amp;-Output-including-java.util-Exceptions-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section15/Basic-Input-&amp;-Output-including-java.util-Buffered-Writer-and-Challenge-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section15/Basic-Input-&amp;-Output-including-java.util-Try-with-Resources-Source-code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/section15/Basic-Input-&amp;-Output-including-java.util-Introduction-to-IO-Source-code.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
